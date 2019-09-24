@@ -1,5 +1,6 @@
-![flicks](https://gitlab.com/n4ru/Flicks/raw/master/settings/flicks.png)
+![flicks reborn](https://github.com/ExM4china/flicks-reborn/blob/master/settings/flicks.png)
 
+Originally made by **[n4ru](https://github.com/n4ru)** - I'm just reconfiguring it a little since support for it has been dropped, but he did all the work of building the meat of this app! Also give credit to the wonderful developers over at Team Rebble; they're the reason us Pebble users can still use our favorite smartwatches, after all. I'll let the original readme take over from here:
 
 Introducing **[flicks](http://apps.getpebble.com/en_US/application/55d3560c704e4657a3000013)** - a watch app created to do whatever you want whenever you want - right on your wrist. 
 
